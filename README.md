@@ -1,5 +1,8 @@
-# search-in-a-video 🎥🔍🧠
+## Group Project(Course CS512 - ARTIFICIAL INTELLIGENCE)
+My Role is to extract text from video frames and create meaningful, relevant and non-repetitive transcript segments.
+# Search-in-a-Video 🎥🔍🧠
 
+## Project Description
 A web app that lets you **search inside a video** using natural language. Just type what you're looking for — the app returns relevant **timestamps** from the video. You can also **chat with the video** to explore its content more deeply.
 
 ## ✨ Features
