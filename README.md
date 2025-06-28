@@ -1,5 +1,5 @@
 ## Group Project(Course CS512 - ARTIFICIAL INTELLIGENCE)
-My Role is to extract text from video frames and create meaningful, relevant and non-repetitive transcript segments.
+My Role is to extract text from video frames using EasyOCR and create meaningful, relevant and non-repetitive transcript segments.
 # Search-in-a-Video 🎥🔍🧠
 
 ## Project Description
