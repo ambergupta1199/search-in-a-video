@@ -1,4 +1,4 @@
-## Group Project(Course CS512 - ARTIFICIAL INTELLIGENCE)
+## Group Project(Course CS512 - ARTIFICIAL INTELLIGENCE)Total Members: 4
 My role is to extract text from video frames using EasyOCR and create meaningful, relevant and non-repetitive transcript segments.
 # Search-in-a-Video 🎥🔍🧠
 
